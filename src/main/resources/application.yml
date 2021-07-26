@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      user: root
+      password: root
+      uri: mongodb://localhost:27017/south-system
+      auto-index-creation: true
+
+com:
+  south-system:
+    associate-properties:
+      cpf-validator-url: https://user-info.herokuapp.com/users/
