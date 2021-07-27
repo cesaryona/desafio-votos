@@ -7,6 +7,6 @@ Among the technologies used, the main ones are:
 - Lombok
 - Swagger 2.0.0
 
-<br/>
 Database used:
+<br/>
 - MongoDB
