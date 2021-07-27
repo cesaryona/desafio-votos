@@ -9,4 +9,4 @@ Among the technologies used, the main ones are:
 
 <br/>
 Database used:
-MongoDB
+- MongoDB
